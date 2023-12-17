@@ -1,0 +1,6 @@
+{
+  "pages": {
+    "https://example.com/page1": 5,
+    "https://example.com/page2": 3
+  }
+}
